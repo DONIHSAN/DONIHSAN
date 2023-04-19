@@ -44,3 +44,5 @@
 
 ![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&theme=radical)
 
+![snake gif](https://github.com/DONIHSAN/DONIHSAN/blob/output/github-contribution-grid-snake.gif)
+
