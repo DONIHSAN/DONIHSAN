@@ -1,15 +1,16 @@
 
-## Don Ihsan ? Yes I'am 🦜
+## Hello , I'm Don Ihsan <img align="center" alt="Ikhsan-Python" height="35" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png">
 
 
-# I'm a Single, Good Boy, Developer and Teacher 👋
+# I'm a Good Boy, Developer and Teacher 👋
 
 - 🎓 I’m currently Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/)
 - 🌱 I’m currently learning **Database MySQL**
 - 👯 I’m looking to collaborate on **Content Creator**
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I Speak 4 Languages (***Indonesian, English, Arabic, Spanish***)
+- ⚡ Fun fact: I Speak 4 Languages **(Indonesian, English, Arabic, Spanish)**
+
 
 ### Languages and Tools :
 
@@ -28,19 +29,19 @@
 ### Talk with me :
 
 <div> 
-  <a href="https://www.youtube.com/@Donihsan_/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@Donihsan_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fakhrudinikhsan98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/2xP549CZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ihsaanef@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.tiktok.com/@tiktokofficialindonesia" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/playlist/37i9dQZF1E389wHpnEsdQF?si=64821caf74904ba1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
+  <a href="https://spoti.fi/41jAgSQ" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a> 
   
 </div>
 
 
 ###
 
-![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONIHSAN&show_icons=true&theme=dracula)
+![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONIHSAN&show_icons=true&theme=synthwave)
 
-![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&theme=dracula)
+![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&theme=synthwave)
 
