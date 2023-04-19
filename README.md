@@ -1,5 +1,5 @@
 
-## Hello , I'm Don Ihsan <img align="center" alt="Ikhsan-Python" height="35" width="40" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png">
+## Hello , I'm Don Ihsan <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png">
 
 
 # I'm a Good Boy, Developer and Teacher 👋
@@ -13,9 +13,8 @@
 
 
 ### Languages and Tools :
-
 <div style="display: inline_block"><br>
- <img align="center" alt="Ikhsan-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="Center" alt="Ikhsan-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
  <img align="center" alt="Ikhsan-MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
  <img align="center" alt="Ikhsan-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="Ikhsan-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -43,5 +42,5 @@
 
 ![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONIHSAN&show_icons=true&theme=synthwave)
 
-![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&theme=synthwave)
+![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&theme=radical)
 
