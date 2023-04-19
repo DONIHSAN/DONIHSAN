@@ -1,4 +1,4 @@
-<img align="Right" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="250" height="200" />
+<img align="Center" src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" width="350" height="250" />
 
 
 ## Don Ihsan ? Yes I'am 🦜
