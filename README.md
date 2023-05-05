@@ -2,7 +2,7 @@
 ## Hello , I'm Don Ihsan <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png">
 
 
-# I'm a Good Boy, Developer and Teacher 👋
+# I'm a Good Boy, Developer and Mentor 👋
 
 - 🎓 I’m currently Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/)
 - 🌱 I’m currently learning **Database MySQL**
