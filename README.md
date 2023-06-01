@@ -40,9 +40,9 @@
 
 ###
 
-![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONIHSAN&show_icons=true&theme=synthwave)
+![Ihsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DONIHSAN&show_icons=true&theme=transparent)
 
-![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&theme=radical)
+![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&hide_progress=true)
 
 ### Donate me , to Join Front-end Web Development Bootcamp 😉
 
