@@ -5,7 +5,7 @@
 # I'm a Good Boy, Developer and Mentor 👋
 
 - 🎓 I’m currently Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/)
-- 🌱 I’m currently learning **Database MySQL**
+- 🌱 I’m currently learning **Web Development**
 - 👯 I’m looking to collaborate on **Content Creator**
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: He/Him
