@@ -2,7 +2,7 @@
 ## Hello , I'm Don Ihsan <img align="center" alt="Ikhsan-Python" height="40" width="45" src="https://em-content.zobj.net/source/microsoft-teams/337/student_1f9d1-200d-1f393.png">
 
 
-# I'm a Good Boy, Developer and Mentor 👋
+# Software Engineer and Mentor 👋
 
 - 🎓 I’m currently Studying at [Pelita Bangsa University](https://www.pelitabangsa.ac.id/)
 - 🌱 I’m currently learning **Web Development**
@@ -44,7 +44,7 @@
 
 ![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&layout=donut&theme=radical)
 
-### Donate me , to Join Front-end Web Development Bootcamp 😉
+### up to you 😉
 
 <div> 
   <a href="https://saweria.co/DonIhsan" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
