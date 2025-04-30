@@ -44,9 +44,9 @@
 
 ![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&layout=donut&theme=radical)
 
-### Link support up to you 😉
+### link support , up to you 😉💸
 
 <div> 
-  <a href="https://sociabuzz.com/donihsan99/tribe" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
+  <a href="https://sociabuzz.com/donihsan99/donate" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
   </div>
 
