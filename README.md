@@ -28,7 +28,7 @@
 ### Talk with me :
 
 <div> 
-  <a href="https://www.youtube.com/@Donihsan_" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@DONIHSAN" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/fakhrudinikhsan98/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/2xP549CZ" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:ihsaanef@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -44,9 +44,9 @@
 
 ![Ihsan's Github Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DONIHSAN&layout=donut&theme=radical)
 
-### up to you 😉
+### Link support up to you 😉
 
 <div> 
-  <a href="https://saweria.co/DonIhsan" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
+  <a href="https://sociabuzz.com/donihsan99/tribe" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" target="_blank"></a>
   </div>
 
